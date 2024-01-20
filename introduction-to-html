@@ -1,0 +1,24 @@
+#Apa itu HTML?
+HTML kepanjangan dari Hyper Text Markup Language, HTML memberikan struktur dasar dalam halaman Web, menentukan bagaimana teks, gambar, tautan dan elemen - elemen lainnya ditampilkan di browser.
+Hypertext/Hyperlink mengacu kepada potongan - potongan teks yang dapat ditautkan ke dokumen lain di situs web dan merupakan dasar dari cara kerja situs web.
+Markup Language mengacu kepada tag HTML yang digunakan untuk menandakan sesuatu yang berbeda fungsinya, apakah sebagai paragraf, sebagai judul dan yang lainnya
+
+#Heading (h1,h2,h3,h4,h5,h6)
+Urutan heading ini yang terbesar dimulai dengan h1 dan yang terkecil adalah h6. Saran penggunaan heading ini sebaiknya berdasarkan urutan jangan loncat - loncat, misal sesudah menggunakan h1 jangan langsung pakai h3, sebaiknya menggunakan terlebih dahulu h2.
+
+#Paragraf (<p>)
+Paragraf ini digunakan untuk membuat teks menjadi rapi, jika tidak menggunakan paragraf, teks akan terus bersambung dengan teks paragraf yang kedua (tidak ada enter).
+
+#Self Closing (<hr /> dan <br />)
+Self closing ini adalah tag yang tidak mempunyai awal atau tag pembuka. Dalam pelajaran modul 1 ini kita telah mempelajari self closing tag <hr /> yang fungsinya untuk membuat garis horizontal secara full page dan <br /> fungsinya untuk membuat enter dalam teks. Menggunakan /> adalah agar kita tahu bahwa itu adalah self closing, karena jika kita hanya menggunakan <br> dalam perjalanannya akan membuat kita bingung, jadi direkomendasikan menggunakan /> atau biasa disebut dengan void element.
+#My Goals
+Kenapa saya ingin belajar skill ini?
+Saya ingin mempelajarinya karena saya suka dengan coding dan ingin lebih mendalami apa yang sudah dipelajari di perkuliahan, saya menyesali karena belajar tidak terfokus kepada 1 bahasa pemrograman dan saya ingin belajar sekarang saya ingin belajar kembali dengan lebih terfokus kepada 1 bahasa pemrograman terlebih dahulu.
+Apa yang akan saya capai jika saya mempelajari keterampilan ini?
+Saya akan mendapatkan banyak kesempatan berkembang di dunia pemrograman 🙂
+Bagaimana keterampilan ini akan mengubah hidup dan karier saya?
+Karir saya pastinya akan berubah dan saya bisa memilih kesempatan mana yang akan saya ambil nantinya serta pastinya akan menambah banyak menambah pengalaman.
+Bagaimana perasaan saya jika saya tidak pernah mencapai hal ini?
+Saya akan merasa kecewa tentunya. Tapi saya yakin saya bisa 🙂
+Akan seperti apa hidup saya jika saya berhasil mencapai hal ini?
+Saya akan banyak mengambil kesempatan dan peluang yang baru dalam hidup saya.
